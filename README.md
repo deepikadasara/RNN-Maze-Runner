@@ -11,3 +11,4 @@ unknown, where U_partial*(S) = minimum #rounds taken for the agent to catch the 
 takes decisions on the basis of these values. \
 • Build a Model V to predict the value of U_partial* values for all the states and move the agent based
 on the predicted values of U_partial* \
+![GIF-2022-10-04-09-47-08](https://github.com/deepikadasara/RNN-Maze-Runner/assets/47112406/859caa17-1fdc-468e-85f8-bed67d573103)
